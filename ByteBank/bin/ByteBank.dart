@@ -17,5 +17,5 @@ class ContaCorrente {
   String titular;
   int agencia;
   int conta;
-  double saldo;
+  double saldo = 0;
 }
